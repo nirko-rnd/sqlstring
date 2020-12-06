@@ -6,6 +6,8 @@
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 
+forked from [mysqljs/sqlstring](https://github.com/mysqljs/sqlstring)
+
 Simple SQL escape and format for MySQL
 
 ## Install
